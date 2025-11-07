@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P6starter</string>
+    <string name="tip_amount">Napojnica %s</string>
+    <string name="calculate_tip">Izračunaj napojnicu</string>
+</resources>
