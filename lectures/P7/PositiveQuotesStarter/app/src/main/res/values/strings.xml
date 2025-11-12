@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Positive Quotes starter</string>
+    <string name="affirmation1">I can learn anything if I give it time and effort.</string>
+    <string name="affirmation2">I’m doing my best, and that is enough.</string>
+    <string name="affirmation3">Each day I’m getting smarter, stronger, and more confident.</string>
+    <string name="affirmation4">Mistakes help me grow and understand things better.</string>
+    <string name="affirmation5">I’m proud of how far I’ve come on my learning journey.</string>
+    <string name="affirmation6">I believe in my ability to solve problems and think creatively.</string>
+    <string name="affirmation7">Every lecture and every project brings me closer to my goals.</string>
+    <string name="affirmation8">I have the courage to ask questions and seek help when I need it.</string>
+    <string name="affirmation9">I choose progress over perfection — one step at a time.</string>
+    <string name="affirmation10">I deserve to rest and recharge — balance is part of success.</string>
+</resources>
